@@ -17,4 +17,19 @@
     <Color x:Key="ForegroundLight">#ffffff</Color>
     <SolidColorBrush x:Key="ForegroundLightBrush" Color="{StaticResource ForegroundLight}" />
 
+    <Color x:Key="ForegroundDark">#bdbdbd</Color>
+    <SolidColorBrush x:Key="ForegroundDarkBrush" Color="{StaticResource ForegroundDark}" />
+
+    <Color x:Key="WordPink">#ec2075</Color>
+    <SolidColorBrush x:Key="WordPinkBrush" Color="{StaticResource WordPink}" />
+
+    <Color x:Key="WordPinkSoft">#F8DAE9</Color>
+    <SolidColorBrush x:Key="WordPinkSoftBrush" Color="{StaticResource WordPinkSoft}" />
+
+    <Color x:Key="HoverPink">#FFE6EE</Color>
+    <SolidColorBrush x:Key="HoverPinkBrush" Color="{StaticResource HoverPink}" />
+
+    <Color x:Key="HoverLightPink">#FFB6C1</Color>
+    <SolidColorBrush x:Key="HoverLightPinkBrush" Color="{StaticResource HoverLightPink}" />
+
 </ResourceDictionary>

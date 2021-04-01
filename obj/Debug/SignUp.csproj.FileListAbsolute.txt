@@ -21,3 +21,30 @@ C:\Users\ASUS\source\repos\SignUp\obj\Debug\Styles\Windows.baml
 C:\Users\ASUS\source\repos\SignUp\obj\Debug\Styles\Texts.baml
 C:\Users\ASUS\source\repos\SignUp\obj\Debug\SignUp.csproj.Fody.CopyLocal.cache
 C:\Users\ASUS\source\repos\SignUp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\source\repos\SignUp\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\ASUS\source\repos\SignUp\obj\Debug\Pages\LoginPage.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\bin\Debug\SignUp.exe.config
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\bin\Debug\SignUp.exe
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\bin\Debug\SignUp.pdb
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.csprojAssemblyReference.cache
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Pages\LoginPage.g.cs
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\MainWindow.g.cs
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\App.g.cs
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp_MarkupCompile.cache
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp_MarkupCompile.lref
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\App.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Pages\LoginPage.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\MainWindow.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Styles\Windows.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Styles\Buttons.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Styles\Colors.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Styles\Texts.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\Styles\Fonts.baml
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.g.resources
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.Properties.Resources.resources
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.csproj.GenerateResource.cache
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.csproj.CoreCompileInputs.cache
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.csproj.Fody.CopyLocal.cache
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.exe
+D:\Matkul TC\6_PBKK\Tugas 4\WPF_LoginForm\obj\Debug\SignUp.pdb

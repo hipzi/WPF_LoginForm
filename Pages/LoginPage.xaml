@@ -1,0 +1,56 @@
+﻿<Page x:Class="SignUp.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SignUp"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="700"
+      Title="LoginPage">
+
+    <Border>
+        <Grid>
+            <Grid.Background>
+                <ImageBrush TileMode="Tile" ViewportUnits="Absolute" Viewport="0 0 700 700" ImageSource="/Images/Background.jpg" />
+            </Grid.Background>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <StackPanel
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    TextBlock.TextAlignment="Center">
+
+                    <Border Background="{StaticResource ForegroundLightBrush}"
+                            CornerRadius="10"
+                            Padding="40 30 40 15"
+                            Width="350"
+                            Margin="50 50 50 0">
+
+                        <StackPanel>
+                            <TextBlock Text="Sign Up" 
+                                       FontSize="{StaticResource FontSizeLarge}" 
+                                       FontFamily="{StaticResource LatoRegular}"
+                                       Foreground="{StaticResource WordPinkBrush}" />
+
+                            <TextBlock Text="It's about to get fun" 
+                                       FontSize="{StaticResource FontSizeRegular}"
+                                       Foreground="{StaticResource ForegroundVeryDarkBrush}" />
+
+                            <TextBox Tag="Email"/>
+                            <TextBox Tag="Password"/>
+
+                            <Button Content="Next" FontFamily="{StaticResource LatoBold}" HorizontalAlignment="Center" />
+
+
+                        </StackPanel>
+
+
+                    </Border>
+
+                    <Button Style="{StaticResource TextButton}" Content="I already have an acount" HorizontalAlignment="Center" />
+                </StackPanel>
+            </ScrollViewer>
+
+        </Grid>
+    </Border>
+</Page>

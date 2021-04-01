@@ -29,7 +29,7 @@ namespace SignUp
         public int ResizeBorder { get; set; } = 6;
         public Thickness ResizeBorderThickness { get { return new Thickness(ResizeBorder + OuterMarginSize); } }
 
-        public Thickness InnerContentPadding { get { return new Thickness(ResizeBorder); } }
+        public Thickness InnerContentPadding { get; set; } = new Thickness(0);
 
         public int OuterMarginSize
         {
@@ -59,9 +59,12 @@ namespace SignUp
 
         public CornerRadius WindowCornerRadius { get { return new CornerRadius(WindowRadius); } }
 
-        public int TitleHeight { get; set; } = 42;
+        public int TitleHeight { get; set; } = 30;
 
         public GridLength TitleHeightGridLength { get { return new GridLength(TitleHeight + ResizeBorder); } }
+
+        public ApplicationPage CurrentPage { get; set; } = ApplicationPage.Login;
+
 
         #endregion
 
